@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently enrolled in a Tech Elevator course and learning about software development! Having a great time doing it, and looking forward to the future!
+Currently enrolled in a Tech Elevator course and learning about software development! Having a great time doing it, and looking forward to learning more!
